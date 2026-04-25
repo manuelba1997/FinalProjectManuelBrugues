@@ -1,0 +1,5 @@
+﻿  CipherProgram.cpp
+C:\Users\manue\Downloads\RandomMonoalphabeticCipher\CipherProgram.cpp(36,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\manue\Downloads\RandomMonoalphabeticCipher\CipherProgram.cpp(59,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\manue\Downloads\RandomMonoalphabeticCipher\CipherProgram.cpp(84,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RandomMonoalphabeticCipher.vcxproj -> C:\Users\manue\Downloads\RandomMonoalphabeticCipher\x64\Debug\RandomMonoalphabeticCipher.exe

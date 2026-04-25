@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\Downloads\\RandomMonoalphabeticCipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{716E0F4C-4E23-4AA4-B4D4-85DCEE3F344C}|RandomMonoalphabeticCipher.vcxproj|C:\\Users\\manue\\Downloads\\RandomMonoalphabeticCipher\\CipherProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{716E0F4C-4E23-4AA4-B4D4-85DCEE3F344C}|RandomMonoalphabeticCipher.vcxproj|solutionrelative:CipherProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CipherProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\RandomMonoalphabeticCipher\\CipherProgram.cpp",
+              "RelativeDocumentMoniker": "CipherProgram.cpp",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\RandomMonoalphabeticCipher\\CipherProgram.cpp",
+              "RelativeToolTip": "CipherProgram.cpp",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-25T01:24:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
